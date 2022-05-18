@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KaranjotVendal
 - 👀 I’m interested in Data Science and ML 
-- 🌱 I’m currently pusrsuing CSE
+- 🌱 I’m currently pursuing CSE
 - 📫 How to reach me karanjotvendal@gmail.com
 
 <!---
