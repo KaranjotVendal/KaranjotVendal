@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science and ML 
 - 🌱 I’m currently pursuing master's at Queen mary University of London
 - 📫 you can reach me at karanjotvendal@gmail.com
-- Website: https://karanjotvendal.github.io/Landing-Page/
+
 
 <!---
 KaranjotVendal/KaranjotVendal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
