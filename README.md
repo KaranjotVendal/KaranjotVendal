@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KaranjotVendal
-- 👀 I’m interested in Data Science and ML 
-- 🌱 I’m currently pursuing master's at Queen mary University of London
+- 👀 I’m interested in ML primarily in computer vision. 
+- 🌱 I’m currently pursuing master's at Queen mary University of London, UK
 - 📫 you can reach me at karanjotvendal@gmail.com
 
 
