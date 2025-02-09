@@ -4,7 +4,7 @@
 - 👀 I’m interested in Deep learning, Reinforcement Learning (still learning). 
 - 🌱 I finished my master's at Queen Mary University of London, UK
 - 📫 you can reach me at karanjotvendal@gmail.com or on X @vendalkaranjot
-- find my page [here]([https://karanjotvendal.github.io/Landing-Page/](https://karanjotvendal.github.io/))
+- find my page [here](https://karanjotvendal.github.io/)
 
 
 <!---
